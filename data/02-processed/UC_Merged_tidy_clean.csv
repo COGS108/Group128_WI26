@@ -1,0 +1,239 @@
+source_table,question,response,response_option,scale,value_type,value
+UC Academic Experiences,Family responsibilities,,1,1-5,percent,0.26
+UC Academic Experiences,Family responsibilities,,1,1-5,count,5523.0
+UC Academic Experiences,"Feeling depressed, stressed, or upset",,1,1-5,percent,0.16
+UC Academic Experiences,"Feeling depressed, stressed, or upset",,1,1-5,count,3461.0
+UC Academic Experiences,"Going hungry, not having enough food",,1,1-5,percent,0.64
+UC Academic Experiences,"Going hungry, not having enough food",,1,1-5,count,13670.0
+UC Academic Experiences,Inability to concentrate on my work,,1,1-5,percent,0.19
+UC Academic Experiences,Inability to concentrate on my work,,1,1-5,count,4101.0
+UC Academic Experiences,Inadequate study skills,,1,1-5,percent,0.29
+UC Academic Experiences,Inadequate study skills,,1,1-5,count,6087.0
+UC Academic Experiences,"Inconsistent access to housing, or homelessness",,1,1-5,percent,0.84
+UC Academic Experiences,"Inconsistent access to housing, or homelessness",,1,1-5,count,17962.0
+UC Academic Experiences,"Job responsibilities (e.g., paid employment)",,1,1-5,percent,0.4
+UC Academic Experiences,"Job responsibilities (e.g., paid employment)",,1,1-5,count,8527.0
+UC Academic Experiences,Military deployment,,1,1-5,percent,0.91
+UC Academic Experiences,Military deployment,,1,1-5,count,19454.0
+UC Academic Experiences,"Other responsibilities (e.g., athletics, clubs, internship)",,1,1-5,percent,0.3
+UC Academic Experiences,"Other responsibilities (e.g., athletics, clubs, internship)",,1,1-5,count,6320.0
+UC Academic Experiences,Physical illness or condition,,1,1-5,percent,0.42
+UC Academic Experiences,Physical illness or condition,,1,1-5,count,9069.0
+UC Academic Experiences,Poor study behaviors,,1,1-5,percent,0.17
+UC Academic Experiences,Poor study behaviors,,1,1-5,count,3583.0
+UC Academic Experiences,Poor study environment,,1,1-5,percent,0.24
+UC Academic Experiences,Poor study environment,,1,1-5,count,5166.0
+UC Academic Experiences,Reluctance to ask for academic help when I need it,,1,1-5,percent,0.31
+UC Academic Experiences,Reluctance to ask for academic help when I need it,,1,1-5,count,6651.0
+UC Academic Experiences,Weak English skills,,1,1-5,percent,0.77
+UC Academic Experiences,Weak English skills,,1,1-5,count,16438.0
+UC Academic Experiences,Weak math skills,,1,1-5,percent,0.53
+UC Academic Experiences,Weak math skills,,1,1-5,count,11335.0
+UC Academic Experiences,Other,,1,1-5,percent,0.75
+UC Academic Experiences,Other,,1,1-5,count,4628.0
+UC Academic Experiences,Family responsibilities,,2,1-5,percent,0.27
+UC Academic Experiences,Family responsibilities,,2,1-5,count,5814.0
+UC Academic Experiences,"Feeling depressed, stressed, or upset",,2,1-5,percent,0.21
+UC Academic Experiences,"Feeling depressed, stressed, or upset",,2,1-5,count,4597.0
+UC Academic Experiences,"Going hungry, not having enough food",,2,1-5,percent,0.19
+UC Academic Experiences,"Going hungry, not having enough food",,2,1-5,count,3968.0
+UC Academic Experiences,Inability to concentrate on my work,,2,1-5,percent,0.2
+UC Academic Experiences,Inability to concentrate on my work,,2,1-5,count,4253.0
+UC Academic Experiences,Inadequate study skills,,2,1-5,percent,0.25
+UC Academic Experiences,Inadequate study skills,,2,1-5,count,5326.0
+UC Academic Experiences,"Inconsistent access to housing, or homelessness",,2,1-5,percent,0.07
+UC Academic Experiences,"Inconsistent access to housing, or homelessness",,2,1-5,count,1456.0
+UC Academic Experiences,"Job responsibilities (e.g., paid employment)",,2,1-5,percent,0.17
+UC Academic Experiences,"Job responsibilities (e.g., paid employment)",,2,1-5,count,3683.0
+UC Academic Experiences,Military deployment,,2,1-5,percent,0.03
+UC Academic Experiences,Military deployment,,2,1-5,count,642.0
+UC Academic Experiences,"Other responsibilities (e.g., athletics, clubs, internship)",,2,1-5,percent,0.25
+UC Academic Experiences,"Other responsibilities (e.g., athletics, clubs, internship)",,2,1-5,count,5303.0
+UC Academic Experiences,Physical illness or condition,,2,1-5,percent,0.29
+UC Academic Experiences,Physical illness or condition,,2,1-5,count,6131.0
+UC Academic Experiences,Poor study behaviors,,2,1-5,percent,0.21
+UC Academic Experiences,Poor study behaviors,,2,1-5,count,4457.0
+UC Academic Experiences,Poor study environment,,2,1-5,percent,0.3
+UC Academic Experiences,Poor study environment,,2,1-5,count,6442.0
+UC Academic Experiences,Reluctance to ask for academic help when I need it,,2,1-5,percent,0.23
+UC Academic Experiences,Reluctance to ask for academic help when I need it,,2,1-5,count,4998.0
+UC Academic Experiences,Weak English skills,,2,1-5,percent,0.11
+UC Academic Experiences,Weak English skills,,2,1-5,count,2274.0
+UC Academic Experiences,Weak math skills,,2,1-5,percent,0.2
+UC Academic Experiences,Weak math skills,,2,1-5,count,4176.0
+UC Academic Experiences,Other,,2,1-5,percent,0.05
+UC Academic Experiences,Other,,2,1-5,count,313.0
+UC Academic Experiences,Family responsibilities,,3,1-5,percent,0.29
+UC Academic Experiences,Family responsibilities,,3,1-5,count,6142.0
+UC Academic Experiences,"Feeling depressed, stressed, or upset",,3,1-5,percent,0.32
+UC Academic Experiences,"Feeling depressed, stressed, or upset",,3,1-5,count,6780.0
+UC Academic Experiences,"Going hungry, not having enough food",,3,1-5,percent,0.12
+UC Academic Experiences,"Going hungry, not having enough food",,3,1-5,count,2632.0
+UC Academic Experiences,Inability to concentrate on my work,,3,1-5,percent,0.34
+UC Academic Experiences,Inability to concentrate on my work,,3,1-5,count,7177.0
+UC Academic Experiences,Inadequate study skills,,3,1-5,percent,0.29
+UC Academic Experiences,Inadequate study skills,,3,1-5,count,6123.0
+UC Academic Experiences,"Inconsistent access to housing, or homelessness",,3,1-5,percent,0.06
+UC Academic Experiences,"Inconsistent access to housing, or homelessness",,3,1-5,count,1265.0
+UC Academic Experiences,"Job responsibilities (e.g., paid employment)",,3,1-5,percent,0.24
+UC Academic Experiences,"Job responsibilities (e.g., paid employment)",,3,1-5,count,5161.0
+UC Academic Experiences,Military deployment,,3,1-5,percent,0.04
+UC Academic Experiences,Military deployment,,3,1-5,count,780.0
+UC Academic Experiences,"Other responsibilities (e.g., athletics, clubs, internship)",,3,1-5,percent,0.29
+UC Academic Experiences,"Other responsibilities (e.g., athletics, clubs, internship)",,3,1-5,count,6261.0
+UC Academic Experiences,Physical illness or condition,,3,1-5,percent,0.2
+UC Academic Experiences,Physical illness or condition,,3,1-5,count,4235.0
+UC Academic Experiences,Poor study behaviors,,3,1-5,percent,0.34
+UC Academic Experiences,Poor study behaviors,,3,1-5,count,7267.0
+UC Academic Experiences,Poor study environment,,3,1-5,percent,0.3
+UC Academic Experiences,Poor study environment,,3,1-5,count,6490.0
+UC Academic Experiences,Reluctance to ask for academic help when I need it,,3,1-5,percent,0.27
+UC Academic Experiences,Reluctance to ask for academic help when I need it,,3,1-5,count,5770.0
+UC Academic Experiences,Weak English skills,,3,1-5,percent,0.08
+UC Academic Experiences,Weak English skills,,3,1-5,count,1693.0
+UC Academic Experiences,Weak math skills,,3,1-5,percent,0.17
+UC Academic Experiences,Weak math skills,,3,1-5,count,3715.0
+UC Academic Experiences,Other,,3,1-5,percent,0.11
+UC Academic Experiences,Other,,3,1-5,count,680.0
+UC Academic Experiences,Family responsibilities,,4,1-5,percent,0.13
+UC Academic Experiences,Family responsibilities,,4,1-5,count,2881.0
+UC Academic Experiences,"Feeling depressed, stressed, or upset",,4,1-5,percent,0.21
+UC Academic Experiences,"Feeling depressed, stressed, or upset",,4,1-5,count,4495.0
+UC Academic Experiences,"Going hungry, not having enough food",,4,1-5,percent,0.04
+UC Academic Experiences,"Going hungry, not having enough food",,4,1-5,count,808.0
+UC Academic Experiences,Inability to concentrate on my work,,4,1-5,percent,0.19
+UC Academic Experiences,Inability to concentrate on my work,,4,1-5,count,4158.0
+UC Academic Experiences,Inadequate study skills,,4,1-5,percent,0.13
+UC Academic Experiences,Inadequate study skills,,4,1-5,count,2728.0
+UC Academic Experiences,"Inconsistent access to housing, or homelessness",,4,1-5,percent,0.02
+UC Academic Experiences,"Inconsistent access to housing, or homelessness",,4,1-5,count,492.0
+UC Academic Experiences,"Job responsibilities (e.g., paid employment)",,4,1-5,percent,0.14
+UC Academic Experiences,"Job responsibilities (e.g., paid employment)",,4,1-5,count,2937.0
+UC Academic Experiences,Military deployment,,4,1-5,percent,0.02
+UC Academic Experiences,Military deployment,,4,1-5,count,351.0
+UC Academic Experiences,"Other responsibilities (e.g., athletics, clubs, internship)",,4,1-5,percent,0.13
+UC Academic Experiences,"Other responsibilities (e.g., athletics, clubs, internship)",,4,1-5,count,2721.0
+UC Academic Experiences,Physical illness or condition,,4,1-5,percent,0.07
+UC Academic Experiences,Physical illness or condition,,4,1-5,count,1414.0
+UC Academic Experiences,Poor study behaviors,,4,1-5,percent,0.21
+UC Academic Experiences,Poor study behaviors,,4,1-5,count,4413.0
+UC Academic Experiences,Poor study environment,,4,1-5,percent,0.12
+UC Academic Experiences,Poor study environment,,4,1-5,count,2481.0
+UC Academic Experiences,Reluctance to ask for academic help when I need it,,4,1-5,percent,0.13
+UC Academic Experiences,Reluctance to ask for academic help when I need it,,4,1-5,count,2721.0
+UC Academic Experiences,Weak English skills,,4,1-5,percent,0.04
+UC Academic Experiences,Weak English skills,,4,1-5,count,754.0
+UC Academic Experiences,Weak math skills,,4,1-5,percent,0.07
+UC Academic Experiences,Weak math skills,,4,1-5,count,1550.0
+UC Academic Experiences,Other,,4,1-5,percent,0.05
+UC Academic Experiences,Other,,4,1-5,count,336.0
+UC Academic Experiences,Family responsibilities,,5,1-5,percent,0.05
+UC Academic Experiences,Family responsibilities,,5,1-5,count,1097.0
+UC Academic Experiences,"Feeling depressed, stressed, or upset",,5,1-5,percent,0.1
+UC Academic Experiences,"Feeling depressed, stressed, or upset",,5,1-5,count,2125.0
+UC Academic Experiences,"Going hungry, not having enough food",,5,1-5,percent,0.02
+UC Academic Experiences,"Going hungry, not having enough food",,5,1-5,count,340.0
+UC Academic Experiences,Inability to concentrate on my work,,5,1-5,percent,0.08
+UC Academic Experiences,Inability to concentrate on my work,,5,1-5,count,1722.0
+UC Academic Experiences,Inadequate study skills,,5,1-5,percent,0.05
+UC Academic Experiences,Inadequate study skills,,5,1-5,count,1070.0
+UC Academic Experiences,"Inconsistent access to housing, or homelessness",,5,1-5,percent,0.01
+UC Academic Experiences,"Inconsistent access to housing, or homelessness",,5,1-5,count,237.0
+UC Academic Experiences,"Job responsibilities (e.g., paid employment)",,5,1-5,percent,0.06
+UC Academic Experiences,"Job responsibilities (e.g., paid employment)",,5,1-5,count,1190.0
+UC Academic Experiences,Military deployment,,5,1-5,percent,0.01
+UC Academic Experiences,Military deployment,,5,1-5,count,151.0
+UC Academic Experiences,"Other responsibilities (e.g., athletics, clubs, internship)",,5,1-5,percent,0.04
+UC Academic Experiences,"Other responsibilities (e.g., athletics, clubs, internship)",,5,1-5,count,812.0
+UC Academic Experiences,Physical illness or condition,,5,1-5,percent,0.02
+UC Academic Experiences,Physical illness or condition,,5,1-5,count,529.0
+UC Academic Experiences,Poor study behaviors,,5,1-5,percent,0.08
+UC Academic Experiences,Poor study behaviors,,5,1-5,count,1737.0
+UC Academic Experiences,Poor study environment,,5,1-5,percent,0.04
+UC Academic Experiences,Poor study environment,,5,1-5,count,873.0
+UC Academic Experiences,Reluctance to ask for academic help when I need it,,5,1-5,percent,0.06
+UC Academic Experiences,Reluctance to ask for academic help when I need it,,5,1-5,count,1252.0
+UC Academic Experiences,Weak English skills,,5,1-5,percent,0.01
+UC Academic Experiences,Weak English skills,,5,1-5,count,286.0
+UC Academic Experiences,Weak math skills,,5,1-5,percent,0.03
+UC Academic Experiences,Weak math skills,,5,1-5,count,639.0
+UC Academic Experiences,Other,,5,1-5,percent,0.04
+UC Academic Experiences,Other,,5,1-5,count,235.0
+UC Academic Experiences,Family responsibilities,,Grand Total,1-5,percent,1.0
+UC Academic Experiences,Family responsibilities,,Grand Total,1-5,count,21457.0
+UC Academic Experiences,"Feeling depressed, stressed, or upset",,Grand Total,1-5,percent,1.0
+UC Academic Experiences,"Feeling depressed, stressed, or upset",,Grand Total,1-5,count,21458.0
+UC Academic Experiences,"Going hungry, not having enough food",,Grand Total,1-5,percent,1.0
+UC Academic Experiences,"Going hungry, not having enough food",,Grand Total,1-5,count,21418.0
+UC Academic Experiences,Inability to concentrate on my work,,Grand Total,1-5,percent,1.0
+UC Academic Experiences,Inability to concentrate on my work,,Grand Total,1-5,count,21411.0
+UC Academic Experiences,Inadequate study skills,,Grand Total,1-5,percent,1.0
+UC Academic Experiences,Inadequate study skills,,Grand Total,1-5,count,21334.0
+UC Academic Experiences,"Inconsistent access to housing, or homelessness",,Grand Total,1-5,percent,1.0
+UC Academic Experiences,"Inconsistent access to housing, or homelessness",,Grand Total,1-5,count,21412.0
+UC Academic Experiences,"Job responsibilities (e.g., paid employment)",,Grand Total,1-5,percent,1.0
+UC Academic Experiences,"Job responsibilities (e.g., paid employment)",,Grand Total,1-5,count,21498.0
+UC Academic Experiences,Military deployment,,Grand Total,1-5,percent,1.0
+UC Academic Experiences,Military deployment,,Grand Total,1-5,count,21378.0
+UC Academic Experiences,"Other responsibilities (e.g., athletics, clubs, internship)",,Grand Total,1-5,percent,1.0
+UC Academic Experiences,"Other responsibilities (e.g., athletics, clubs, internship)",,Grand Total,1-5,count,21417.0
+UC Academic Experiences,Physical illness or condition,,Grand Total,1-5,percent,1.0
+UC Academic Experiences,Physical illness or condition,,Grand Total,1-5,count,21378.0
+UC Academic Experiences,Poor study behaviors,,Grand Total,1-5,percent,1.0
+UC Academic Experiences,Poor study behaviors,,Grand Total,1-5,count,21457.0
+UC Academic Experiences,Poor study environment,,Grand Total,1-5,percent,1.0
+UC Academic Experiences,Poor study environment,,Grand Total,1-5,count,21452.0
+UC Academic Experiences,Reluctance to ask for academic help when I need it,,Grand Total,1-5,percent,1.0
+UC Academic Experiences,Reluctance to ask for academic help when I need it,,Grand Total,1-5,count,21392.0
+UC Academic Experiences,Weak English skills,,Grand Total,1-5,percent,1.0
+UC Academic Experiences,Weak English skills,,Grand Total,1-5,count,21445.0
+UC Academic Experiences,Weak math skills,,Grand Total,1-5,percent,1.0
+UC Academic Experiences,Weak math skills,,Grand Total,1-5,count,21415.0
+UC Academic Experiences,Other,,Grand Total,1-5,percent,1.0
+UC Academic Experiences,Other,,Grand Total,1-5,count,6192.0
+Felt Nervous in Past 30 Days,Felt Nervous in Past 30 Days,None of the time,,,percent,0.05
+Felt Nervous in Past 30 Days,Felt Nervous in Past 30 Days,A little of the time,,,percent,0.19
+Felt Nervous in Past 30 Days,Felt Nervous in Past 30 Days,Some of the time,,,percent,0.39
+Felt Nervous in Past 30 Days,Felt Nervous in Past 30 Days,Most of the time,,,percent,0.25
+Felt Nervous in Past 30 Days,Felt Nervous in Past 30 Days,All of the time,,,percent,0.12
+Felt Nervous in Past 30 Days,Felt Nervous in Past 30 Days,None of the time,,,count,510.0
+Felt Nervous in Past 30 Days,Felt Nervous in Past 30 Days,A little of the time,,,count,2038.0
+Felt Nervous in Past 30 Days,Felt Nervous in Past 30 Days,Some of the time,,,count,4224.0
+Felt Nervous in Past 30 Days,Felt Nervous in Past 30 Days,Most of the time,,,count,2636.0
+Felt Nervous in Past 30 Days,Felt Nervous in Past 30 Days,All of the time,,,count,1244.0
+Impact of Anxiety on Students,Impact of Anxiety on Students,I did not experience this issue/not applicable,,,count,3338.0
+Impact of Anxiety on Students,Impact of Anxiety on Students,"I have experienced this issue, but my academics have not been affected",,,count,3002.0
+Impact of Anxiety on Students,Impact of Anxiety on Students,I have experienced this issue and it negatively impacted my performance in a class,,,count,3663.0
+Impact of Anxiety on Students,Impact of Anxiety on Students,I have experienced this issue and it delayed progress towards my degree,,,count,653.0
+Impact of Depression on Students,Impact of Depression on Students,I did not experience this issue/not applicable,,,count,6007.0
+Impact of Depression on Students,Impact of Depression on Students,"I have experienced this issue, but my academics have not been affected",,,count,1589.0
+Impact of Depression on Students,Impact of Depression on Students,I have experienced this issue and it negatively impacted my performance in a class,,,count,2488.0
+Impact of Depression on Students,Impact of Depression on Students,I have experienced this issue and it delayed progress towards my degree,,,count,626.0
+Impact of Stress on Students,Impact of Stress on Students,I did not experience this issue/not applicable,,,count,1877.0
+Impact of Stress on Students,Impact of Stress on Students,"I have experienced this issue, but my academics have not been affected",,,count,3400.0
+Impact of Stress on Students,Impact of Stress on Students,I have experienced this issue and it negatively impacted my performance in a class,,,count,4639.0
+Impact of Stress on Students,Impact of Stress on Students,I have experienced this issue and it delayed progress towards my degree,,,count,799.0
+Impact of Anxiety on Students,Impact of Anxiety on Students,I did not experience this issue/not applicable,,,count,0.0
+Impact of Anxiety on Students,Impact of Anxiety on Students,"I have experienced this issue, but my academics have not been affected",,,count,0.0
+Impact of Anxiety on Students,Impact of Anxiety on Students,I have experienced this issue and it negatively impacted my performance in a class,,,count,0.0
+Impact of Anxiety on Students,Impact of Anxiety on Students,I have experienced this issue and it delayed progress towards my degree,,,count,0.0
+Impact of Depression on Students,Impact of Depression on Students,I did not experience this issue/not applicable,,,count,1.0
+Impact of Depression on Students,Impact of Depression on Students,"I have experienced this issue, but my academics have not been affected",,,count,0.0
+Impact of Depression on Students,Impact of Depression on Students,I have experienced this issue and it negatively impacted my performance in a class,,,count,0.0
+Impact of Depression on Students,Impact of Depression on Students,I have experienced this issue and it delayed progress towards my degree,,,count,0.0
+Impact of Stress on Students,Impact of Stress on Students,I did not experience this issue/not applicable,,,count,0.0
+Impact of Stress on Students,Impact of Stress on Students,"I have experienced this issue, but my academics have not been affected",,,count,0.0
+Impact of Stress on Students,Impact of Stress on Students,I have experienced this issue and it negatively impacted my performance in a class,,,count,0.0
+Impact of Stress on Students,Impact of Stress on Students,I have experienced this issue and it delayed progress towards my degree,,,count,0.0
+Impact of Anxiety on Students,Impact of Anxiety on Students,I did not experience this issue/not applicable,,,count,0.31
+Impact of Anxiety on Students,Impact of Anxiety on Students,"I have experienced this issue, but my academics have not been affected",,,count,0.28
+Impact of Anxiety on Students,Impact of Anxiety on Students,I have experienced this issue and it negatively impacted my performance in a class,,,count,0.34
+Impact of Anxiety on Students,Impact of Anxiety on Students,I have experienced this issue and it delayed progress towards my degree,,,count,0.06
+Impact of Depression on Students,Impact of Depression on Students,I did not experience this issue/not applicable,,,count,0.56
+Impact of Depression on Students,Impact of Depression on Students,"I have experienced this issue, but my academics have not been affected",,,count,0.15
+Impact of Depression on Students,Impact of Depression on Students,I have experienced this issue and it negatively impacted my performance in a class,,,count,0.23
+Impact of Depression on Students,Impact of Depression on Students,I have experienced this issue and it delayed progress towards my degree,,,count,0.06
+Impact of Stress on Students,Impact of Stress on Students,I did not experience this issue/not applicable,,,count,0.18
+Impact of Stress on Students,Impact of Stress on Students,"I have experienced this issue, but my academics have not been affected",,,count,0.32
+Impact of Stress on Students,Impact of Stress on Students,I have experienced this issue and it negatively impacted my performance in a class,,,count,0.43
+Impact of Stress on Students,Impact of Stress on Students,I have experienced this issue and it delayed progress towards my degree,,,count,0.07
